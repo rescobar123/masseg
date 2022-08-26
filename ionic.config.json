@@ -1,0 +1,8 @@
+{
+  "name": "masseg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "7a0b2f08"
+}
